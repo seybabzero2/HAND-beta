@@ -505,4 +505,3 @@ If you can access the web interface and generate forecasts, your installation is
 
 **Project Version**: 1.0.0  
 **Last Updated**: 2025-01-05  
-**License**: MIT
